@@ -1,0 +1,901 @@
+date,product_id,product_name,category,predicted_demand,price,discount,promotion,holiday
+2027-01-01,P0001,Wireless Mouse,Electronics,63.93,794.79,0.0,0,0
+2027-01-02,P0001,Wireless Mouse,Electronics,71.02,794.79,0.0,0,0
+2027-01-03,P0001,Wireless Mouse,Electronics,70.15,794.79,0.0,0,0
+2027-01-04,P0001,Wireless Mouse,Electronics,57.13,794.79,0.0,0,0
+2027-01-05,P0001,Wireless Mouse,Electronics,59.94,794.79,0.0,0,0
+2027-01-06,P0001,Wireless Mouse,Electronics,60.23,794.79,0.0,0,0
+2027-01-07,P0001,Wireless Mouse,Electronics,58.97,794.79,0.0,0,0
+2027-01-08,P0001,Wireless Mouse,Electronics,57.63,794.79,0.0,0,0
+2027-01-09,P0001,Wireless Mouse,Electronics,65.49,794.79,0.0,0,0
+2027-01-10,P0001,Wireless Mouse,Electronics,65.64,794.79,0.0,0,0
+2027-01-11,P0001,Wireless Mouse,Electronics,51.88,794.79,0.0,0,0
+2027-01-12,P0001,Wireless Mouse,Electronics,53.0,794.79,0.0,0,0
+2027-01-13,P0001,Wireless Mouse,Electronics,54.27,794.79,0.0,0,0
+2027-01-14,P0001,Wireless Mouse,Electronics,55.56,794.79,0.0,0,0
+2027-01-15,P0001,Wireless Mouse,Electronics,55.76,794.79,0.0,0,0
+2027-01-16,P0001,Wireless Mouse,Electronics,61.82,794.79,0.0,0,0
+2027-01-17,P0001,Wireless Mouse,Electronics,58.53,794.79,0.0,0,0
+2027-01-18,P0001,Wireless Mouse,Electronics,55.87,794.79,0.0,0,0
+2027-01-19,P0001,Wireless Mouse,Electronics,53.62,794.79,0.0,0,0
+2027-01-20,P0001,Wireless Mouse,Electronics,54.16,794.79,0.0,0,0
+2027-01-21,P0001,Wireless Mouse,Electronics,55.01,794.79,0.0,0,0
+2027-01-22,P0001,Wireless Mouse,Electronics,54.28,794.79,0.0,0,0
+2027-01-23,P0001,Wireless Mouse,Electronics,57.53,794.79,0.0,0,0
+2027-01-24,P0001,Wireless Mouse,Electronics,54.21,794.79,0.0,0,0
+2027-01-25,P0001,Wireless Mouse,Electronics,50.67,794.79,0.0,0,0
+2027-01-26,P0001,Wireless Mouse,Electronics,71.14,794.79,0.0,0,1
+2027-01-27,P0001,Wireless Mouse,Electronics,52.53,794.79,0.0,0,0
+2027-01-28,P0001,Wireless Mouse,Electronics,56.35,794.79,0.0,0,0
+2027-01-29,P0001,Wireless Mouse,Electronics,55.09,794.79,0.0,0,0
+2027-01-30,P0001,Wireless Mouse,Electronics,56.65,794.79,0.0,0,0
+2027-01-01,P0002,Mechanical Keyboard,Electronics,29.89,2356.21,0.0,0,0
+2027-01-02,P0002,Mechanical Keyboard,Electronics,36.02,2356.21,0.0,0,0
+2027-01-03,P0002,Mechanical Keyboard,Electronics,36.28,2356.21,0.0,0,0
+2027-01-04,P0002,Mechanical Keyboard,Electronics,31.75,2356.21,0.0,0,0
+2027-01-05,P0002,Mechanical Keyboard,Electronics,31.72,2356.21,0.0,0,0
+2027-01-06,P0002,Mechanical Keyboard,Electronics,32.25,2356.21,0.0,0,0
+2027-01-07,P0002,Mechanical Keyboard,Electronics,32.97,2356.21,0.0,0,0
+2027-01-08,P0002,Mechanical Keyboard,Electronics,31.37,2356.21,0.0,0,0
+2027-01-09,P0002,Mechanical Keyboard,Electronics,34.67,2356.21,0.0,0,0
+2027-01-10,P0002,Mechanical Keyboard,Electronics,34.18,2356.21,0.0,0,0
+2027-01-11,P0002,Mechanical Keyboard,Electronics,30.13,2356.21,0.0,0,0
+2027-01-12,P0002,Mechanical Keyboard,Electronics,30.67,2356.21,0.0,0,0
+2027-01-13,P0002,Mechanical Keyboard,Electronics,30.97,2356.21,0.0,0,0
+2027-01-14,P0002,Mechanical Keyboard,Electronics,29.86,2356.21,0.0,0,0
+2027-01-15,P0002,Mechanical Keyboard,Electronics,29.71,2356.21,0.0,0,0
+2027-01-16,P0002,Mechanical Keyboard,Electronics,33.71,2356.21,0.0,0,0
+2027-01-17,P0002,Mechanical Keyboard,Electronics,33.87,2356.21,0.0,0,0
+2027-01-18,P0002,Mechanical Keyboard,Electronics,31.49,2356.21,0.0,0,0
+2027-01-19,P0002,Mechanical Keyboard,Electronics,34.7,2356.21,0.0,0,0
+2027-01-20,P0002,Mechanical Keyboard,Electronics,30.11,2356.21,0.0,0,0
+2027-01-21,P0002,Mechanical Keyboard,Electronics,30.16,2356.21,0.0,0,0
+2027-01-22,P0002,Mechanical Keyboard,Electronics,29.78,2356.21,0.0,0,0
+2027-01-23,P0002,Mechanical Keyboard,Electronics,33.18,2356.21,0.0,0,0
+2027-01-24,P0002,Mechanical Keyboard,Electronics,33.89,2356.21,0.0,0,0
+2027-01-25,P0002,Mechanical Keyboard,Electronics,29.89,2356.21,0.0,0,0
+2027-01-26,P0002,Mechanical Keyboard,Electronics,45.49,2356.21,0.0,0,1
+2027-01-27,P0002,Mechanical Keyboard,Electronics,29.08,2356.21,0.0,0,0
+2027-01-28,P0002,Mechanical Keyboard,Electronics,29.69,2356.21,0.0,0,0
+2027-01-29,P0002,Mechanical Keyboard,Electronics,30.37,2356.21,0.0,0,0
+2027-01-30,P0002,Mechanical Keyboard,Electronics,32.85,2356.21,0.0,0,0
+2027-01-01,P0003,USB-C Cable,Electronics,84.33,491.56,0.0,0,0
+2027-01-02,P0003,USB-C Cable,Electronics,98.95,491.56,0.0,0,0
+2027-01-03,P0003,USB-C Cable,Electronics,96.97,491.56,0.0,0,0
+2027-01-04,P0003,USB-C Cable,Electronics,90.0,491.56,0.0,0,0
+2027-01-05,P0003,USB-C Cable,Electronics,92.68,491.56,0.0,0,0
+2027-01-06,P0003,USB-C Cable,Electronics,97.53,491.56,0.0,0,0
+2027-01-07,P0003,USB-C Cable,Electronics,104.69,491.56,0.0,0,0
+2027-01-08,P0003,USB-C Cable,Electronics,101.87,491.56,0.0,0,0
+2027-01-09,P0003,USB-C Cable,Electronics,99.66,491.56,0.0,0,0
+2027-01-10,P0003,USB-C Cable,Electronics,100.95,491.56,0.0,0,0
+2027-01-11,P0003,USB-C Cable,Electronics,98.55,491.56,0.0,0,0
+2027-01-12,P0003,USB-C Cable,Electronics,94.71,491.56,0.0,0,0
+2027-01-13,P0003,USB-C Cable,Electronics,90.04,491.56,0.0,0,0
+2027-01-14,P0003,USB-C Cable,Electronics,95.12,491.56,0.0,0,0
+2027-01-15,P0003,USB-C Cable,Electronics,93.6,491.56,0.0,0,0
+2027-01-16,P0003,USB-C Cable,Electronics,102.96,491.56,0.0,0,0
+2027-01-17,P0003,USB-C Cable,Electronics,103.6,491.56,0.0,0,0
+2027-01-18,P0003,USB-C Cable,Electronics,89.02,491.56,0.0,0,0
+2027-01-19,P0003,USB-C Cable,Electronics,91.44,491.56,0.0,0,0
+2027-01-20,P0003,USB-C Cable,Electronics,90.2,491.56,0.0,0,0
+2027-01-21,P0003,USB-C Cable,Electronics,88.25,491.56,0.0,0,0
+2027-01-22,P0003,USB-C Cable,Electronics,90.86,491.56,0.0,0,0
+2027-01-23,P0003,USB-C Cable,Electronics,106.69,491.56,0.0,0,0
+2027-01-24,P0003,USB-C Cable,Electronics,107.43,491.56,0.0,0,0
+2027-01-25,P0003,USB-C Cable,Electronics,89.04,491.56,0.0,0,0
+2027-01-26,P0003,USB-C Cable,Electronics,117.83,491.56,0.0,0,1
+2027-01-27,P0003,USB-C Cable,Electronics,92.81,491.56,0.0,0,0
+2027-01-28,P0003,USB-C Cable,Electronics,89.89,491.56,0.0,0,0
+2027-01-29,P0003,USB-C Cable,Electronics,96.02,491.56,0.0,0,0
+2027-01-30,P0003,USB-C Cable,Electronics,105.65,491.56,0.0,0,0
+2027-01-01,P0004,Bluetooth Speaker,Electronics,41.11,2000.0,0.0,0,0
+2027-01-02,P0004,Bluetooth Speaker,Electronics,45.1,2000.0,0.0,0,0
+2027-01-03,P0004,Bluetooth Speaker,Electronics,44.69,2000.0,0.0,0,0
+2027-01-04,P0004,Bluetooth Speaker,Electronics,37.2,2000.0,0.0,0,0
+2027-01-05,P0004,Bluetooth Speaker,Electronics,37.84,2000.0,0.0,0,0
+2027-01-06,P0004,Bluetooth Speaker,Electronics,35.5,2000.0,0.0,0,0
+2027-01-07,P0004,Bluetooth Speaker,Electronics,35.88,2000.0,0.0,0,0
+2027-01-08,P0004,Bluetooth Speaker,Electronics,34.32,2000.0,0.0,0,0
+2027-01-09,P0004,Bluetooth Speaker,Electronics,36.51,2000.0,0.0,0,0
+2027-01-10,P0004,Bluetooth Speaker,Electronics,37.39,2000.0,0.0,0,0
+2027-01-11,P0004,Bluetooth Speaker,Electronics,33.27,2000.0,0.0,0,0
+2027-01-12,P0004,Bluetooth Speaker,Electronics,34.64,2000.0,0.0,0,0
+2027-01-13,P0004,Bluetooth Speaker,Electronics,34.24,2000.0,0.0,0,0
+2027-01-14,P0004,Bluetooth Speaker,Electronics,34.98,2000.0,0.0,0,0
+2027-01-15,P0004,Bluetooth Speaker,Electronics,35.09,2000.0,0.0,0,0
+2027-01-16,P0004,Bluetooth Speaker,Electronics,41.33,2000.0,0.0,0,0
+2027-01-17,P0004,Bluetooth Speaker,Electronics,39.96,2000.0,0.0,0,0
+2027-01-18,P0004,Bluetooth Speaker,Electronics,35.61,2000.0,0.0,0,0
+2027-01-19,P0004,Bluetooth Speaker,Electronics,36.18,2000.0,0.0,0,0
+2027-01-20,P0004,Bluetooth Speaker,Electronics,36.36,2000.0,0.0,0,0
+2027-01-21,P0004,Bluetooth Speaker,Electronics,36.74,2000.0,0.0,0,0
+2027-01-22,P0004,Bluetooth Speaker,Electronics,36.95,2000.0,0.0,0,0
+2027-01-23,P0004,Bluetooth Speaker,Electronics,40.24,2000.0,0.0,0,0
+2027-01-24,P0004,Bluetooth Speaker,Electronics,38.36,2000.0,0.0,0,0
+2027-01-25,P0004,Bluetooth Speaker,Electronics,35.62,2000.0,0.0,0,0
+2027-01-26,P0004,Bluetooth Speaker,Electronics,54.12,2000.0,0.0,0,1
+2027-01-27,P0004,Bluetooth Speaker,Electronics,35.0,2000.0,0.0,0,0
+2027-01-28,P0004,Bluetooth Speaker,Electronics,35.16,2000.0,0.0,0,0
+2027-01-29,P0004,Bluetooth Speaker,Electronics,35.15,2000.0,0.0,0,0
+2027-01-30,P0004,Bluetooth Speaker,Electronics,38.57,2000.0,0.0,0,0
+2027-01-01,P0005,Power Bank,Electronics,45.33,1506.29,0.0,0,0
+2027-01-02,P0005,Power Bank,Electronics,49.31,1506.29,0.0,0,0
+2027-01-03,P0005,Power Bank,Electronics,50.63,1506.29,0.0,0,0
+2027-01-04,P0005,Power Bank,Electronics,40.71,1506.29,0.0,0,0
+2027-01-05,P0005,Power Bank,Electronics,46.74,1506.29,0.0,0,0
+2027-01-06,P0005,Power Bank,Electronics,41.08,1506.29,0.0,0,0
+2027-01-07,P0005,Power Bank,Electronics,40.82,1506.29,0.0,0,0
+2027-01-08,P0005,Power Bank,Electronics,43.77,1506.29,0.0,0,0
+2027-01-09,P0005,Power Bank,Electronics,46.71,1506.29,0.0,0,0
+2027-01-10,P0005,Power Bank,Electronics,44.79,1506.29,0.0,0,0
+2027-01-11,P0005,Power Bank,Electronics,41.59,1506.29,0.0,0,0
+2027-01-12,P0005,Power Bank,Electronics,41.84,1506.29,0.0,0,0
+2027-01-13,P0005,Power Bank,Electronics,41.65,1506.29,0.0,0,0
+2027-01-14,P0005,Power Bank,Electronics,41.86,1506.29,0.0,0,0
+2027-01-15,P0005,Power Bank,Electronics,41.79,1506.29,0.0,0,0
+2027-01-16,P0005,Power Bank,Electronics,46.2,1506.29,0.0,0,0
+2027-01-17,P0005,Power Bank,Electronics,43.73,1506.29,0.0,0,0
+2027-01-18,P0005,Power Bank,Electronics,41.66,1506.29,0.0,0,0
+2027-01-19,P0005,Power Bank,Electronics,40.67,1506.29,0.0,0,0
+2027-01-20,P0005,Power Bank,Electronics,40.18,1506.29,0.0,0,0
+2027-01-21,P0005,Power Bank,Electronics,39.89,1506.29,0.0,0,0
+2027-01-22,P0005,Power Bank,Electronics,40.39,1506.29,0.0,0,0
+2027-01-23,P0005,Power Bank,Electronics,42.23,1506.29,0.0,0,0
+2027-01-24,P0005,Power Bank,Electronics,42.93,1506.29,0.0,0,0
+2027-01-25,P0005,Power Bank,Electronics,37.57,1506.29,0.0,0,0
+2027-01-26,P0005,Power Bank,Electronics,51.96,1506.29,0.0,0,1
+2027-01-27,P0005,Power Bank,Electronics,38.39,1506.29,0.0,0,0
+2027-01-28,P0005,Power Bank,Electronics,37.47,1506.29,0.0,0,0
+2027-01-29,P0005,Power Bank,Electronics,38.59,1506.29,0.0,0,0
+2027-01-30,P0005,Power Bank,Electronics,41.54,1506.29,0.0,0,0
+2027-01-01,P0006,Running Shoes,Fashion,39.16,3005.45,0.0,0,0
+2027-01-02,P0006,Running Shoes,Fashion,41.98,3005.45,0.0,0,0
+2027-01-03,P0006,Running Shoes,Fashion,40.54,3005.45,0.0,0,0
+2027-01-04,P0006,Running Shoes,Fashion,34.1,3005.45,0.0,0,0
+2027-01-05,P0006,Running Shoes,Fashion,34.86,3005.45,0.0,0,0
+2027-01-06,P0006,Running Shoes,Fashion,35.76,3005.45,0.0,0,0
+2027-01-07,P0006,Running Shoes,Fashion,36.67,3005.45,0.0,0,0
+2027-01-08,P0006,Running Shoes,Fashion,35.4,3005.45,0.0,0,0
+2027-01-09,P0006,Running Shoes,Fashion,38.45,3005.45,0.0,0,0
+2027-01-10,P0006,Running Shoes,Fashion,39.17,3005.45,0.0,0,0
+2027-01-11,P0006,Running Shoes,Fashion,36.02,3005.45,0.0,0,0
+2027-01-12,P0006,Running Shoes,Fashion,36.86,3005.45,0.0,0,0
+2027-01-13,P0006,Running Shoes,Fashion,36.7,3005.45,0.0,0,0
+2027-01-14,P0006,Running Shoes,Fashion,35.06,3005.45,0.0,0,0
+2027-01-15,P0006,Running Shoes,Fashion,35.46,3005.45,0.0,0,0
+2027-01-16,P0006,Running Shoes,Fashion,39.39,3005.45,0.0,0,0
+2027-01-17,P0006,Running Shoes,Fashion,38.39,3005.45,0.0,0,0
+2027-01-18,P0006,Running Shoes,Fashion,35.09,3005.45,0.0,0,0
+2027-01-19,P0006,Running Shoes,Fashion,34.81,3005.45,0.0,0,0
+2027-01-20,P0006,Running Shoes,Fashion,35.31,3005.45,0.0,0,0
+2027-01-21,P0006,Running Shoes,Fashion,36.05,3005.45,0.0,0,0
+2027-01-22,P0006,Running Shoes,Fashion,35.69,3005.45,0.0,0,0
+2027-01-23,P0006,Running Shoes,Fashion,39.09,3005.45,0.0,0,0
+2027-01-24,P0006,Running Shoes,Fashion,39.78,3005.45,0.0,0,0
+2027-01-25,P0006,Running Shoes,Fashion,35.24,3005.45,0.0,0,0
+2027-01-26,P0006,Running Shoes,Fashion,52.22,3005.45,0.0,0,1
+2027-01-27,P0006,Running Shoes,Fashion,34.08,3005.45,0.0,0,0
+2027-01-28,P0006,Running Shoes,Fashion,34.79,3005.45,0.0,0,0
+2027-01-29,P0006,Running Shoes,Fashion,35.75,3005.45,0.0,0,0
+2027-01-30,P0006,Running Shoes,Fashion,39.13,3005.45,0.0,0,0
+2027-01-01,P0007,Cotton T-Shirt,Fashion,70.11,687.02,0.0,0,0
+2027-01-02,P0007,Cotton T-Shirt,Fashion,75.1,687.02,0.0,0,0
+2027-01-03,P0007,Cotton T-Shirt,Fashion,73.81,687.02,0.0,0,0
+2027-01-04,P0007,Cotton T-Shirt,Fashion,71.44,687.02,0.0,0,0
+2027-01-05,P0007,Cotton T-Shirt,Fashion,74.58,687.02,0.0,0,0
+2027-01-06,P0007,Cotton T-Shirt,Fashion,71.6,687.02,0.0,0,0
+2027-01-07,P0007,Cotton T-Shirt,Fashion,72.39,687.02,0.0,0,0
+2027-01-08,P0007,Cotton T-Shirt,Fashion,68.56,687.02,0.0,0,0
+2027-01-09,P0007,Cotton T-Shirt,Fashion,83.95,687.02,0.0,0,0
+2027-01-10,P0007,Cotton T-Shirt,Fashion,81.06,687.02,0.0,0,0
+2027-01-11,P0007,Cotton T-Shirt,Fashion,62.9,687.02,0.0,0,0
+2027-01-12,P0007,Cotton T-Shirt,Fashion,62.18,687.02,0.0,0,0
+2027-01-13,P0007,Cotton T-Shirt,Fashion,66.32,687.02,0.0,0,0
+2027-01-14,P0007,Cotton T-Shirt,Fashion,65.38,687.02,0.0,0,0
+2027-01-15,P0007,Cotton T-Shirt,Fashion,65.01,687.02,0.0,0,0
+2027-01-16,P0007,Cotton T-Shirt,Fashion,76.43,687.02,0.0,0,0
+2027-01-17,P0007,Cotton T-Shirt,Fashion,78.59,687.02,0.0,0,0
+2027-01-18,P0007,Cotton T-Shirt,Fashion,67.68,687.02,0.0,0,0
+2027-01-19,P0007,Cotton T-Shirt,Fashion,66.66,687.02,0.0,0,0
+2027-01-20,P0007,Cotton T-Shirt,Fashion,64.82,687.02,0.0,0,0
+2027-01-21,P0007,Cotton T-Shirt,Fashion,64.84,687.02,0.0,0,0
+2027-01-22,P0007,Cotton T-Shirt,Fashion,63.91,687.02,0.0,0,0
+2027-01-23,P0007,Cotton T-Shirt,Fashion,77.06,687.02,0.0,0,0
+2027-01-24,P0007,Cotton T-Shirt,Fashion,78.93,687.02,0.0,0,0
+2027-01-25,P0007,Cotton T-Shirt,Fashion,65.65,687.02,0.0,0,0
+2027-01-26,P0007,Cotton T-Shirt,Fashion,89.16,687.02,0.0,0,1
+2027-01-27,P0007,Cotton T-Shirt,Fashion,64.27,687.02,0.0,0,0
+2027-01-28,P0007,Cotton T-Shirt,Fashion,61.66,687.02,0.0,0,0
+2027-01-29,P0007,Cotton T-Shirt,Fashion,63.35,687.02,0.0,0,0
+2027-01-30,P0007,Cotton T-Shirt,Fashion,70.19,687.02,0.0,0,0
+2027-01-01,P0008,Jeans,Fashion,46.62,1876.26,0.0,0,0
+2027-01-02,P0008,Jeans,Fashion,56.36,1876.26,0.0,0,0
+2027-01-03,P0008,Jeans,Fashion,55.54,1876.26,0.0,0,0
+2027-01-04,P0008,Jeans,Fashion,41.0,1876.26,0.0,0,0
+2027-01-05,P0008,Jeans,Fashion,45.6,1876.26,0.0,0,0
+2027-01-06,P0008,Jeans,Fashion,42.41,1876.26,0.0,0,0
+2027-01-07,P0008,Jeans,Fashion,40.68,1876.26,0.0,0,0
+2027-01-08,P0008,Jeans,Fashion,42.92,1876.26,0.0,0,0
+2027-01-09,P0008,Jeans,Fashion,45.83,1876.26,0.0,0,0
+2027-01-10,P0008,Jeans,Fashion,45.8,1876.26,0.0,0,0
+2027-01-11,P0008,Jeans,Fashion,41.49,1876.26,0.0,0,0
+2027-01-12,P0008,Jeans,Fashion,41.74,1876.26,0.0,0,0
+2027-01-13,P0008,Jeans,Fashion,39.69,1876.26,0.0,0,0
+2027-01-14,P0008,Jeans,Fashion,39.47,1876.26,0.0,0,0
+2027-01-15,P0008,Jeans,Fashion,40.01,1876.26,0.0,0,0
+2027-01-16,P0008,Jeans,Fashion,46.0,1876.26,0.0,0,0
+2027-01-17,P0008,Jeans,Fashion,46.45,1876.26,0.0,0,0
+2027-01-18,P0008,Jeans,Fashion,42.32,1876.26,0.0,0,0
+2027-01-19,P0008,Jeans,Fashion,42.5,1876.26,0.0,0,0
+2027-01-20,P0008,Jeans,Fashion,42.42,1876.26,0.0,0,0
+2027-01-21,P0008,Jeans,Fashion,43.14,1876.26,0.0,0,0
+2027-01-22,P0008,Jeans,Fashion,41.59,1876.26,0.0,0,0
+2027-01-23,P0008,Jeans,Fashion,45.8,1876.26,0.0,0,0
+2027-01-24,P0008,Jeans,Fashion,45.4,1876.26,0.0,0,0
+2027-01-25,P0008,Jeans,Fashion,38.35,1876.26,0.0,0,0
+2027-01-26,P0008,Jeans,Fashion,50.04,1876.26,0.0,0,1
+2027-01-27,P0008,Jeans,Fashion,37.77,1876.26,0.0,0,0
+2027-01-28,P0008,Jeans,Fashion,37.71,1876.26,0.0,0,0
+2027-01-29,P0008,Jeans,Fashion,38.74,1876.26,0.0,0,0
+2027-01-30,P0008,Jeans,Fashion,43.76,1876.26,0.0,0,0
+2027-01-01,P0009,Backpack,Fashion,43.77,1341.98,0.0,0,0
+2027-01-02,P0009,Backpack,Fashion,50.49,1341.98,0.0,0,0
+2027-01-03,P0009,Backpack,Fashion,51.11,1341.98,0.0,0,0
+2027-01-04,P0009,Backpack,Fashion,39.52,1341.98,0.0,0,0
+2027-01-05,P0009,Backpack,Fashion,43.14,1341.98,0.0,0,0
+2027-01-06,P0009,Backpack,Fashion,40.34,1341.98,0.0,0,0
+2027-01-07,P0009,Backpack,Fashion,43.88,1341.98,0.0,0,0
+2027-01-08,P0009,Backpack,Fashion,43.93,1341.98,0.0,0,0
+2027-01-09,P0009,Backpack,Fashion,46.01,1341.98,0.0,0,0
+2027-01-10,P0009,Backpack,Fashion,46.5,1341.98,0.0,0,0
+2027-01-11,P0009,Backpack,Fashion,41.16,1341.98,0.0,0,0
+2027-01-12,P0009,Backpack,Fashion,40.21,1341.98,0.0,0,0
+2027-01-13,P0009,Backpack,Fashion,41.52,1341.98,0.0,0,0
+2027-01-14,P0009,Backpack,Fashion,40.25,1341.98,0.0,0,0
+2027-01-15,P0009,Backpack,Fashion,40.72,1341.98,0.0,0,0
+2027-01-16,P0009,Backpack,Fashion,44.56,1341.98,0.0,0,0
+2027-01-17,P0009,Backpack,Fashion,43.72,1341.98,0.0,0,0
+2027-01-18,P0009,Backpack,Fashion,39.46,1341.98,0.0,0,0
+2027-01-19,P0009,Backpack,Fashion,40.26,1341.98,0.0,0,0
+2027-01-20,P0009,Backpack,Fashion,39.39,1341.98,0.0,0,0
+2027-01-21,P0009,Backpack,Fashion,40.07,1341.98,0.0,0,0
+2027-01-22,P0009,Backpack,Fashion,40.07,1341.98,0.0,0,0
+2027-01-23,P0009,Backpack,Fashion,44.0,1341.98,0.0,0,0
+2027-01-24,P0009,Backpack,Fashion,42.28,1341.98,0.0,0,0
+2027-01-25,P0009,Backpack,Fashion,37.21,1341.98,0.0,0,0
+2027-01-26,P0009,Backpack,Fashion,50.95,1341.98,0.0,0,1
+2027-01-27,P0009,Backpack,Fashion,38.66,1341.98,0.0,0,0
+2027-01-28,P0009,Backpack,Fashion,37.89,1341.98,0.0,0,0
+2027-01-29,P0009,Backpack,Fashion,38.69,1341.98,0.0,0,0
+2027-01-30,P0009,Backpack,Fashion,41.99,1341.98,0.0,0,0
+2027-01-01,P0010,Wrist Watch,Fashion,27.74,2509.5,0.0,0,0
+2027-01-02,P0010,Wrist Watch,Fashion,29.48,2509.5,0.0,0,0
+2027-01-03,P0010,Wrist Watch,Fashion,30.92,2509.5,0.0,0,0
+2027-01-04,P0010,Wrist Watch,Fashion,28.23,2509.5,0.0,0,0
+2027-01-05,P0010,Wrist Watch,Fashion,28.57,2509.5,0.0,0,0
+2027-01-06,P0010,Wrist Watch,Fashion,27.15,2509.5,0.0,0,0
+2027-01-07,P0010,Wrist Watch,Fashion,27.93,2509.5,0.0,0,0
+2027-01-08,P0010,Wrist Watch,Fashion,27.26,2509.5,0.0,0,0
+2027-01-09,P0010,Wrist Watch,Fashion,30.52,2509.5,0.0,0,0
+2027-01-10,P0010,Wrist Watch,Fashion,29.55,2509.5,0.0,0,0
+2027-01-11,P0010,Wrist Watch,Fashion,27.01,2509.5,0.0,0,0
+2027-01-12,P0010,Wrist Watch,Fashion,27.68,2509.5,0.0,0,0
+2027-01-13,P0010,Wrist Watch,Fashion,27.18,2509.5,0.0,0,0
+2027-01-14,P0010,Wrist Watch,Fashion,26.93,2509.5,0.0,0,0
+2027-01-15,P0010,Wrist Watch,Fashion,26.88,2509.5,0.0,0,0
+2027-01-16,P0010,Wrist Watch,Fashion,28.99,2509.5,0.0,0,0
+2027-01-17,P0010,Wrist Watch,Fashion,28.12,2509.5,0.0,0,0
+2027-01-18,P0010,Wrist Watch,Fashion,26.54,2509.5,0.0,0,0
+2027-01-19,P0010,Wrist Watch,Fashion,26.63,2509.5,0.0,0,0
+2027-01-20,P0010,Wrist Watch,Fashion,26.35,2509.5,0.0,0,0
+2027-01-21,P0010,Wrist Watch,Fashion,26.05,2509.5,0.0,0,0
+2027-01-22,P0010,Wrist Watch,Fashion,25.77,2509.5,0.0,0,0
+2027-01-23,P0010,Wrist Watch,Fashion,28.57,2509.5,0.0,0,0
+2027-01-24,P0010,Wrist Watch,Fashion,28.45,2509.5,0.0,0,0
+2027-01-25,P0010,Wrist Watch,Fashion,26.44,2509.5,0.0,0,0
+2027-01-26,P0010,Wrist Watch,Fashion,37.63,2509.5,0.0,0,1
+2027-01-27,P0010,Wrist Watch,Fashion,24.89,2509.5,0.0,0,0
+2027-01-28,P0010,Wrist Watch,Fashion,24.63,2509.5,0.0,0,0
+2027-01-29,P0010,Wrist Watch,Fashion,24.88,2509.5,0.0,0,0
+2027-01-30,P0010,Wrist Watch,Fashion,27.14,2509.5,0.0,0,0
+2027-01-01,P0011,Coffee Maker,Home & Kitchen,17.67,3542.14,0.0,0,0
+2027-01-02,P0011,Coffee Maker,Home & Kitchen,21.6,3542.14,0.0,0,0
+2027-01-03,P0011,Coffee Maker,Home & Kitchen,21.08,3542.14,0.0,0,0
+2027-01-04,P0011,Coffee Maker,Home & Kitchen,18.52,3542.14,0.0,0,0
+2027-01-05,P0011,Coffee Maker,Home & Kitchen,19.02,3542.14,0.0,0,0
+2027-01-06,P0011,Coffee Maker,Home & Kitchen,19.09,3542.14,0.0,0,0
+2027-01-07,P0011,Coffee Maker,Home & Kitchen,18.78,3542.14,0.0,0,0
+2027-01-08,P0011,Coffee Maker,Home & Kitchen,17.6,3542.14,0.0,0,0
+2027-01-09,P0011,Coffee Maker,Home & Kitchen,19.42,3542.14,0.0,0,0
+2027-01-10,P0011,Coffee Maker,Home & Kitchen,19.08,3542.14,0.0,0,0
+2027-01-11,P0011,Coffee Maker,Home & Kitchen,17.0,3542.14,0.0,0,0
+2027-01-12,P0011,Coffee Maker,Home & Kitchen,18.36,3542.14,0.0,0,0
+2027-01-13,P0011,Coffee Maker,Home & Kitchen,19.03,3542.14,0.0,0,0
+2027-01-14,P0011,Coffee Maker,Home & Kitchen,17.08,3542.14,0.0,0,0
+2027-01-15,P0011,Coffee Maker,Home & Kitchen,17.47,3542.14,0.0,0,0
+2027-01-16,P0011,Coffee Maker,Home & Kitchen,18.29,3542.14,0.0,0,0
+2027-01-17,P0011,Coffee Maker,Home & Kitchen,18.01,3542.14,0.0,0,0
+2027-01-18,P0011,Coffee Maker,Home & Kitchen,17.8,3542.14,0.0,0,0
+2027-01-19,P0011,Coffee Maker,Home & Kitchen,17.56,3542.14,0.0,0,0
+2027-01-20,P0011,Coffee Maker,Home & Kitchen,17.28,3542.14,0.0,0,0
+2027-01-21,P0011,Coffee Maker,Home & Kitchen,18.13,3542.14,0.0,0,0
+2027-01-22,P0011,Coffee Maker,Home & Kitchen,17.56,3542.14,0.0,0,0
+2027-01-23,P0011,Coffee Maker,Home & Kitchen,18.07,3542.14,0.0,0,0
+2027-01-24,P0011,Coffee Maker,Home & Kitchen,18.35,3542.14,0.0,0,0
+2027-01-25,P0011,Coffee Maker,Home & Kitchen,17.77,3542.14,0.0,0,0
+2027-01-26,P0011,Coffee Maker,Home & Kitchen,22.48,3542.14,0.0,0,1
+2027-01-27,P0011,Coffee Maker,Home & Kitchen,16.92,3542.14,0.0,0,0
+2027-01-28,P0011,Coffee Maker,Home & Kitchen,16.92,3542.14,0.0,0,0
+2027-01-29,P0011,Coffee Maker,Home & Kitchen,16.86,3542.14,0.0,0,0
+2027-01-30,P0011,Coffee Maker,Home & Kitchen,17.82,3542.14,0.0,0,0
+2027-01-01,P0012,Air Fryer,Home & Kitchen,24.32,6087.4,0.0,0,0
+2027-01-02,P0012,Air Fryer,Home & Kitchen,26.69,6087.4,0.0,0,0
+2027-01-03,P0012,Air Fryer,Home & Kitchen,26.46,6087.4,0.0,0,0
+2027-01-04,P0012,Air Fryer,Home & Kitchen,21.65,6087.4,0.0,0,0
+2027-01-05,P0012,Air Fryer,Home & Kitchen,22.35,6087.4,0.0,0,0
+2027-01-06,P0012,Air Fryer,Home & Kitchen,22.36,6087.4,0.0,0,0
+2027-01-07,P0012,Air Fryer,Home & Kitchen,22.54,6087.4,0.0,0,0
+2027-01-08,P0012,Air Fryer,Home & Kitchen,22.21,6087.4,0.0,0,0
+2027-01-09,P0012,Air Fryer,Home & Kitchen,24.63,6087.4,0.0,0,0
+2027-01-10,P0012,Air Fryer,Home & Kitchen,24.75,6087.4,0.0,0,0
+2027-01-11,P0012,Air Fryer,Home & Kitchen,21.26,6087.4,0.0,0,0
+2027-01-12,P0012,Air Fryer,Home & Kitchen,22.04,6087.4,0.0,0,0
+2027-01-13,P0012,Air Fryer,Home & Kitchen,22.52,6087.4,0.0,0,0
+2027-01-14,P0012,Air Fryer,Home & Kitchen,22.11,6087.4,0.0,0,0
+2027-01-15,P0012,Air Fryer,Home & Kitchen,21.91,6087.4,0.0,0,0
+2027-01-16,P0012,Air Fryer,Home & Kitchen,24.79,6087.4,0.0,0,0
+2027-01-17,P0012,Air Fryer,Home & Kitchen,23.9,6087.4,0.0,0,0
+2027-01-18,P0012,Air Fryer,Home & Kitchen,21.56,6087.4,0.0,0,0
+2027-01-19,P0012,Air Fryer,Home & Kitchen,21.46,6087.4,0.0,0,0
+2027-01-20,P0012,Air Fryer,Home & Kitchen,21.27,6087.4,0.0,0,0
+2027-01-21,P0012,Air Fryer,Home & Kitchen,21.52,6087.4,0.0,0,0
+2027-01-22,P0012,Air Fryer,Home & Kitchen,21.32,6087.4,0.0,0,0
+2027-01-23,P0012,Air Fryer,Home & Kitchen,23.94,6087.4,0.0,0,0
+2027-01-24,P0012,Air Fryer,Home & Kitchen,24.18,6087.4,0.0,0,0
+2027-01-25,P0012,Air Fryer,Home & Kitchen,20.69,6087.4,0.0,0,0
+2027-01-26,P0012,Air Fryer,Home & Kitchen,29.4,6087.4,0.0,0,1
+2027-01-27,P0012,Air Fryer,Home & Kitchen,20.91,6087.4,0.0,0,0
+2027-01-28,P0012,Air Fryer,Home & Kitchen,20.87,6087.4,0.0,0,0
+2027-01-29,P0012,Air Fryer,Home & Kitchen,20.8,6087.4,0.0,0,0
+2027-01-30,P0012,Air Fryer,Home & Kitchen,22.91,6087.4,0.0,0,0
+2027-01-01,P0013,Electric Kettle,Home & Kitchen,40.35,1576.99,0.0,0,0
+2027-01-02,P0013,Electric Kettle,Home & Kitchen,38.42,1576.99,0.0,0,0
+2027-01-03,P0013,Electric Kettle,Home & Kitchen,39.98,1576.99,0.0,0,0
+2027-01-04,P0013,Electric Kettle,Home & Kitchen,33.33,1576.99,0.0,0,0
+2027-01-05,P0013,Electric Kettle,Home & Kitchen,33.58,1576.99,0.0,0,0
+2027-01-06,P0013,Electric Kettle,Home & Kitchen,32.53,1576.99,0.0,0,0
+2027-01-07,P0013,Electric Kettle,Home & Kitchen,33.92,1576.99,0.0,0,0
+2027-01-08,P0013,Electric Kettle,Home & Kitchen,31.09,1576.99,0.0,0,0
+2027-01-09,P0013,Electric Kettle,Home & Kitchen,36.06,1576.99,0.0,0,0
+2027-01-10,P0013,Electric Kettle,Home & Kitchen,37.13,1576.99,0.0,0,0
+2027-01-11,P0013,Electric Kettle,Home & Kitchen,33.56,1576.99,0.0,0,0
+2027-01-12,P0013,Electric Kettle,Home & Kitchen,33.43,1576.99,0.0,0,0
+2027-01-13,P0013,Electric Kettle,Home & Kitchen,32.88,1576.99,0.0,0,0
+2027-01-14,P0013,Electric Kettle,Home & Kitchen,31.64,1576.99,0.0,0,0
+2027-01-15,P0013,Electric Kettle,Home & Kitchen,32.44,1576.99,0.0,0,0
+2027-01-16,P0013,Electric Kettle,Home & Kitchen,34.9,1576.99,0.0,0,0
+2027-01-17,P0013,Electric Kettle,Home & Kitchen,34.54,1576.99,0.0,0,0
+2027-01-18,P0013,Electric Kettle,Home & Kitchen,30.8,1576.99,0.0,0,0
+2027-01-19,P0013,Electric Kettle,Home & Kitchen,31.71,1576.99,0.0,0,0
+2027-01-20,P0013,Electric Kettle,Home & Kitchen,31.69,1576.99,0.0,0,0
+2027-01-21,P0013,Electric Kettle,Home & Kitchen,31.52,1576.99,0.0,0,0
+2027-01-22,P0013,Electric Kettle,Home & Kitchen,32.01,1576.99,0.0,0,0
+2027-01-23,P0013,Electric Kettle,Home & Kitchen,34.22,1576.99,0.0,0,0
+2027-01-24,P0013,Electric Kettle,Home & Kitchen,39.26,1576.99,0.0,0,0
+2027-01-25,P0013,Electric Kettle,Home & Kitchen,32.46,1576.99,0.0,0,0
+2027-01-26,P0013,Electric Kettle,Home & Kitchen,43.49,1576.99,0.0,0,1
+2027-01-27,P0013,Electric Kettle,Home & Kitchen,32.86,1576.99,0.0,0,0
+2027-01-28,P0013,Electric Kettle,Home & Kitchen,32.2,1576.99,0.0,0,0
+2027-01-29,P0013,Electric Kettle,Home & Kitchen,31.98,1576.99,0.0,0,0
+2027-01-30,P0013,Electric Kettle,Home & Kitchen,33.53,1576.99,0.0,0,0
+2027-01-01,P0014,Mixer Grinder,Home & Kitchen,22.59,3706.39,0.0,0,0
+2027-01-02,P0014,Mixer Grinder,Home & Kitchen,27.57,3706.39,0.0,0,0
+2027-01-03,P0014,Mixer Grinder,Home & Kitchen,27.67,3706.39,0.0,0,0
+2027-01-04,P0014,Mixer Grinder,Home & Kitchen,23.71,3706.39,0.0,0,0
+2027-01-05,P0014,Mixer Grinder,Home & Kitchen,24.55,3706.39,0.0,0,0
+2027-01-06,P0014,Mixer Grinder,Home & Kitchen,24.89,3706.39,0.0,0,0
+2027-01-07,P0014,Mixer Grinder,Home & Kitchen,24.6,3706.39,0.0,0,0
+2027-01-08,P0014,Mixer Grinder,Home & Kitchen,22.99,3706.39,0.0,0,0
+2027-01-09,P0014,Mixer Grinder,Home & Kitchen,26.14,3706.39,0.0,0,0
+2027-01-10,P0014,Mixer Grinder,Home & Kitchen,26.46,3706.39,0.0,0,0
+2027-01-11,P0014,Mixer Grinder,Home & Kitchen,22.62,3706.39,0.0,0,0
+2027-01-12,P0014,Mixer Grinder,Home & Kitchen,23.22,3706.39,0.0,0,0
+2027-01-13,P0014,Mixer Grinder,Home & Kitchen,22.25,3706.39,0.0,0,0
+2027-01-14,P0014,Mixer Grinder,Home & Kitchen,22.58,3706.39,0.0,0,0
+2027-01-15,P0014,Mixer Grinder,Home & Kitchen,21.6,3706.39,0.0,0,0
+2027-01-16,P0014,Mixer Grinder,Home & Kitchen,24.32,3706.39,0.0,0,0
+2027-01-17,P0014,Mixer Grinder,Home & Kitchen,24.44,3706.39,0.0,0,0
+2027-01-18,P0014,Mixer Grinder,Home & Kitchen,21.49,3706.39,0.0,0,0
+2027-01-19,P0014,Mixer Grinder,Home & Kitchen,21.55,3706.39,0.0,0,0
+2027-01-20,P0014,Mixer Grinder,Home & Kitchen,21.59,3706.39,0.0,0,0
+2027-01-21,P0014,Mixer Grinder,Home & Kitchen,21.61,3706.39,0.0,0,0
+2027-01-22,P0014,Mixer Grinder,Home & Kitchen,21.34,3706.39,0.0,0,0
+2027-01-23,P0014,Mixer Grinder,Home & Kitchen,23.6,3706.39,0.0,0,0
+2027-01-24,P0014,Mixer Grinder,Home & Kitchen,24.07,3706.39,0.0,0,0
+2027-01-25,P0014,Mixer Grinder,Home & Kitchen,20.54,3706.39,0.0,0,0
+2027-01-26,P0014,Mixer Grinder,Home & Kitchen,29.33,3706.39,0.0,0,1
+2027-01-27,P0014,Mixer Grinder,Home & Kitchen,22.16,3706.39,0.0,0,0
+2027-01-28,P0014,Mixer Grinder,Home & Kitchen,21.56,3706.39,0.0,0,0
+2027-01-29,P0014,Mixer Grinder,Home & Kitchen,21.56,3706.39,0.0,0,0
+2027-01-30,P0014,Mixer Grinder,Home & Kitchen,24.42,3706.39,0.0,0,0
+2027-01-01,P0015,Non-Stick Pan,Home & Kitchen,46.13,1172.99,0.0,0,0
+2027-01-02,P0015,Non-Stick Pan,Home & Kitchen,53.6,1172.99,0.0,0,0
+2027-01-03,P0015,Non-Stick Pan,Home & Kitchen,52.05,1172.99,0.0,0,0
+2027-01-04,P0015,Non-Stick Pan,Home & Kitchen,42.36,1172.99,0.0,0,0
+2027-01-05,P0015,Non-Stick Pan,Home & Kitchen,41.77,1172.99,0.0,0,0
+2027-01-06,P0015,Non-Stick Pan,Home & Kitchen,42.11,1172.99,0.0,0,0
+2027-01-07,P0015,Non-Stick Pan,Home & Kitchen,42.58,1172.99,0.0,0,0
+2027-01-08,P0015,Non-Stick Pan,Home & Kitchen,43.99,1172.99,0.0,0,0
+2027-01-09,P0015,Non-Stick Pan,Home & Kitchen,45.24,1172.99,0.0,0,0
+2027-01-10,P0015,Non-Stick Pan,Home & Kitchen,44.51,1172.99,0.0,0,0
+2027-01-11,P0015,Non-Stick Pan,Home & Kitchen,38.8,1172.99,0.0,0,0
+2027-01-12,P0015,Non-Stick Pan,Home & Kitchen,41.16,1172.99,0.0,0,0
+2027-01-13,P0015,Non-Stick Pan,Home & Kitchen,40.56,1172.99,0.0,0,0
+2027-01-14,P0015,Non-Stick Pan,Home & Kitchen,39.84,1172.99,0.0,0,0
+2027-01-15,P0015,Non-Stick Pan,Home & Kitchen,40.72,1172.99,0.0,0,0
+2027-01-16,P0015,Non-Stick Pan,Home & Kitchen,47.51,1172.99,0.0,0,0
+2027-01-17,P0015,Non-Stick Pan,Home & Kitchen,44.52,1172.99,0.0,0,0
+2027-01-18,P0015,Non-Stick Pan,Home & Kitchen,40.27,1172.99,0.0,0,0
+2027-01-19,P0015,Non-Stick Pan,Home & Kitchen,39.82,1172.99,0.0,0,0
+2027-01-20,P0015,Non-Stick Pan,Home & Kitchen,38.06,1172.99,0.0,0,0
+2027-01-21,P0015,Non-Stick Pan,Home & Kitchen,40.25,1172.99,0.0,0,0
+2027-01-22,P0015,Non-Stick Pan,Home & Kitchen,38.63,1172.99,0.0,0,0
+2027-01-23,P0015,Non-Stick Pan,Home & Kitchen,42.1,1172.99,0.0,0,0
+2027-01-24,P0015,Non-Stick Pan,Home & Kitchen,42.91,1172.99,0.0,0,0
+2027-01-25,P0015,Non-Stick Pan,Home & Kitchen,36.66,1172.99,0.0,0,0
+2027-01-26,P0015,Non-Stick Pan,Home & Kitchen,52.94,1172.99,0.0,0,1
+2027-01-27,P0015,Non-Stick Pan,Home & Kitchen,37.68,1172.99,0.0,0,0
+2027-01-28,P0015,Non-Stick Pan,Home & Kitchen,36.63,1172.99,0.0,0,0
+2027-01-29,P0015,Non-Stick Pan,Home & Kitchen,38.27,1172.99,0.0,0,0
+2027-01-30,P0015,Non-Stick Pan,Home & Kitchen,42.4,1172.99,0.0,0,0
+2027-01-01,P0016,Notebook,Stationery,133.53,201.79,0.0,0,0
+2027-01-02,P0016,Notebook,Stationery,141.9,201.79,0.0,0,0
+2027-01-03,P0016,Notebook,Stationery,126.79,201.79,0.0,0,0
+2027-01-04,P0016,Notebook,Stationery,110.47,201.79,0.0,0,0
+2027-01-05,P0016,Notebook,Stationery,123.95,201.79,0.0,0,0
+2027-01-06,P0016,Notebook,Stationery,119.73,201.79,0.0,0,0
+2027-01-07,P0016,Notebook,Stationery,124.58,201.79,0.0,0,0
+2027-01-08,P0016,Notebook,Stationery,123.56,201.79,0.0,0,0
+2027-01-09,P0016,Notebook,Stationery,129.24,201.79,0.0,0,0
+2027-01-10,P0016,Notebook,Stationery,122.36,201.79,0.0,0,0
+2027-01-11,P0016,Notebook,Stationery,121.61,201.79,0.0,0,0
+2027-01-12,P0016,Notebook,Stationery,118.61,201.79,0.0,0,0
+2027-01-13,P0016,Notebook,Stationery,117.49,201.79,0.0,0,0
+2027-01-14,P0016,Notebook,Stationery,116.36,201.79,0.0,0,0
+2027-01-15,P0016,Notebook,Stationery,118.82,201.79,0.0,0,0
+2027-01-16,P0016,Notebook,Stationery,131.29,201.79,0.0,0,0
+2027-01-17,P0016,Notebook,Stationery,121.79,201.79,0.0,0,0
+2027-01-18,P0016,Notebook,Stationery,109.55,201.79,0.0,0,0
+2027-01-19,P0016,Notebook,Stationery,115.36,201.79,0.0,0,0
+2027-01-20,P0016,Notebook,Stationery,111.8,201.79,0.0,0,0
+2027-01-21,P0016,Notebook,Stationery,116.38,201.79,0.0,0,0
+2027-01-22,P0016,Notebook,Stationery,112.58,201.79,0.0,0,0
+2027-01-23,P0016,Notebook,Stationery,117.94,201.79,0.0,0,0
+2027-01-24,P0016,Notebook,Stationery,119.93,201.79,0.0,0,0
+2027-01-25,P0016,Notebook,Stationery,112.79,201.79,0.0,0,0
+2027-01-26,P0016,Notebook,Stationery,145.05,201.79,0.0,0,1
+2027-01-27,P0016,Notebook,Stationery,113.67,201.79,0.0,0,0
+2027-01-28,P0016,Notebook,Stationery,116.95,201.79,0.0,0,0
+2027-01-29,P0016,Notebook,Stationery,114.15,201.79,0.0,0,0
+2027-01-30,P0016,Notebook,Stationery,126.14,201.79,0.0,0,0
+2027-01-01,P0017,Pen Set,Stationery,131.49,148.91,0.0,0,0
+2027-01-02,P0017,Pen Set,Stationery,146.66,148.91,0.0,0,0
+2027-01-03,P0017,Pen Set,Stationery,157.12,148.91,0.0,0,0
+2027-01-04,P0017,Pen Set,Stationery,115.09,148.91,0.0,0,0
+2027-01-05,P0017,Pen Set,Stationery,125.51,148.91,0.0,0,0
+2027-01-06,P0017,Pen Set,Stationery,134.22,148.91,0.0,0,0
+2027-01-07,P0017,Pen Set,Stationery,139.36,148.91,0.0,0,0
+2027-01-08,P0017,Pen Set,Stationery,129.11,148.91,0.0,0,0
+2027-01-09,P0017,Pen Set,Stationery,145.25,148.91,0.0,0,0
+2027-01-10,P0017,Pen Set,Stationery,148.89,148.91,0.0,0,0
+2027-01-11,P0017,Pen Set,Stationery,123.43,148.91,0.0,0,0
+2027-01-12,P0017,Pen Set,Stationery,119.54,148.91,0.0,0,0
+2027-01-13,P0017,Pen Set,Stationery,136.86,148.91,0.0,0,0
+2027-01-14,P0017,Pen Set,Stationery,130.52,148.91,0.0,0,0
+2027-01-15,P0017,Pen Set,Stationery,137.26,148.91,0.0,0,0
+2027-01-16,P0017,Pen Set,Stationery,151.6,148.91,0.0,0,0
+2027-01-17,P0017,Pen Set,Stationery,146.33,148.91,0.0,0,0
+2027-01-18,P0017,Pen Set,Stationery,118.1,148.91,0.0,0,0
+2027-01-19,P0017,Pen Set,Stationery,126.51,148.91,0.0,0,0
+2027-01-20,P0017,Pen Set,Stationery,139.78,148.91,0.0,0,0
+2027-01-21,P0017,Pen Set,Stationery,130.13,148.91,0.0,0,0
+2027-01-22,P0017,Pen Set,Stationery,134.67,148.91,0.0,0,0
+2027-01-23,P0017,Pen Set,Stationery,152.94,148.91,0.0,0,0
+2027-01-24,P0017,Pen Set,Stationery,151.69,148.91,0.0,0,0
+2027-01-25,P0017,Pen Set,Stationery,113.02,148.91,0.0,0,0
+2027-01-26,P0017,Pen Set,Stationery,149.4,148.91,0.0,0,1
+2027-01-27,P0017,Pen Set,Stationery,127.23,148.91,0.0,0,0
+2027-01-28,P0017,Pen Set,Stationery,133.16,148.91,0.0,0,0
+2027-01-29,P0017,Pen Set,Stationery,148.24,148.91,0.0,0,0
+2027-01-30,P0017,Pen Set,Stationery,153.58,148.91,0.0,0,0
+2027-01-01,P0018,Office Organizer,Stationery,82.11,497.02,0.0,0,0
+2027-01-02,P0018,Office Organizer,Stationery,78.32,497.02,0.0,0,0
+2027-01-03,P0018,Office Organizer,Stationery,86.91,497.02,0.0,0,0
+2027-01-04,P0018,Office Organizer,Stationery,81.22,497.02,0.0,0,0
+2027-01-05,P0018,Office Organizer,Stationery,75.18,497.02,0.0,0,0
+2027-01-06,P0018,Office Organizer,Stationery,75.6,497.02,0.0,0,0
+2027-01-07,P0018,Office Organizer,Stationery,73.17,497.02,0.0,0,0
+2027-01-08,P0018,Office Organizer,Stationery,80.21,497.02,0.0,0,0
+2027-01-09,P0018,Office Organizer,Stationery,80.3,497.02,0.0,0,0
+2027-01-10,P0018,Office Organizer,Stationery,83.74,497.02,0.0,0,0
+2027-01-11,P0018,Office Organizer,Stationery,65.5,497.02,0.0,0,0
+2027-01-12,P0018,Office Organizer,Stationery,64.86,497.02,0.0,0,0
+2027-01-13,P0018,Office Organizer,Stationery,66.01,497.02,0.0,0,0
+2027-01-14,P0018,Office Organizer,Stationery,64.23,497.02,0.0,0,0
+2027-01-15,P0018,Office Organizer,Stationery,66.46,497.02,0.0,0,0
+2027-01-16,P0018,Office Organizer,Stationery,80.22,497.02,0.0,0,0
+2027-01-17,P0018,Office Organizer,Stationery,80.47,497.02,0.0,0,0
+2027-01-18,P0018,Office Organizer,Stationery,64.82,497.02,0.0,0,0
+2027-01-19,P0018,Office Organizer,Stationery,66.58,497.02,0.0,0,0
+2027-01-20,P0018,Office Organizer,Stationery,66.34,497.02,0.0,0,0
+2027-01-21,P0018,Office Organizer,Stationery,66.57,497.02,0.0,0,0
+2027-01-22,P0018,Office Organizer,Stationery,63.5,497.02,0.0,0,0
+2027-01-23,P0018,Office Organizer,Stationery,78.8,497.02,0.0,0,0
+2027-01-24,P0018,Office Organizer,Stationery,76.79,497.02,0.0,0,0
+2027-01-25,P0018,Office Organizer,Stationery,65.55,497.02,0.0,0,0
+2027-01-26,P0018,Office Organizer,Stationery,84.27,497.02,0.0,0,1
+2027-01-27,P0018,Office Organizer,Stationery,59.1,497.02,0.0,0,0
+2027-01-28,P0018,Office Organizer,Stationery,62.07,497.02,0.0,0,0
+2027-01-29,P0018,Office Organizer,Stationery,62.87,497.02,0.0,0,0
+2027-01-30,P0018,Office Organizer,Stationery,74.73,497.02,0.0,0,0
+2027-01-01,P0019,Calculator,Stationery,53.92,576.01,0.0,0,0
+2027-01-02,P0019,Calculator,Stationery,63.56,576.01,0.0,0,0
+2027-01-03,P0019,Calculator,Stationery,58.32,576.01,0.0,0,0
+2027-01-04,P0019,Calculator,Stationery,53.13,576.01,0.0,0,0
+2027-01-05,P0019,Calculator,Stationery,53.1,576.01,0.0,0,0
+2027-01-06,P0019,Calculator,Stationery,53.57,576.01,0.0,0,0
+2027-01-07,P0019,Calculator,Stationery,51.4,576.01,0.0,0,0
+2027-01-08,P0019,Calculator,Stationery,51.71,576.01,0.0,0,0
+2027-01-09,P0019,Calculator,Stationery,55.01,576.01,0.0,0,0
+2027-01-10,P0019,Calculator,Stationery,53.53,576.01,0.0,0,0
+2027-01-11,P0019,Calculator,Stationery,49.51,576.01,0.0,0,0
+2027-01-12,P0019,Calculator,Stationery,51.73,576.01,0.0,0,0
+2027-01-13,P0019,Calculator,Stationery,51.3,576.01,0.0,0,0
+2027-01-14,P0019,Calculator,Stationery,50.43,576.01,0.0,0,0
+2027-01-15,P0019,Calculator,Stationery,53.23,576.01,0.0,0,0
+2027-01-16,P0019,Calculator,Stationery,56.08,576.01,0.0,0,0
+2027-01-17,P0019,Calculator,Stationery,57.03,576.01,0.0,0,0
+2027-01-18,P0019,Calculator,Stationery,57.01,576.01,0.0,0,0
+2027-01-19,P0019,Calculator,Stationery,53.63,576.01,0.0,0,0
+2027-01-20,P0019,Calculator,Stationery,53.05,576.01,0.0,0,0
+2027-01-21,P0019,Calculator,Stationery,52.02,576.01,0.0,0,0
+2027-01-22,P0019,Calculator,Stationery,51.43,576.01,0.0,0,0
+2027-01-23,P0019,Calculator,Stationery,55.0,576.01,0.0,0,0
+2027-01-24,P0019,Calculator,Stationery,54.06,576.01,0.0,0,0
+2027-01-25,P0019,Calculator,Stationery,49.27,576.01,0.0,0,0
+2027-01-26,P0019,Calculator,Stationery,69.2,576.01,0.0,0,1
+2027-01-27,P0019,Calculator,Stationery,48.17,576.01,0.0,0,0
+2027-01-28,P0019,Calculator,Stationery,49.93,576.01,0.0,0,0
+2027-01-29,P0019,Calculator,Stationery,50.76,576.01,0.0,0,0
+2027-01-30,P0019,Calculator,Stationery,57.18,576.01,0.0,0,0
+2027-01-01,P0020,Desk Lamp,Stationery,58.46,898.02,0.0,0,0
+2027-01-02,P0020,Desk Lamp,Stationery,62.53,898.02,0.0,0,0
+2027-01-03,P0020,Desk Lamp,Stationery,56.29,898.02,0.0,0,0
+2027-01-04,P0020,Desk Lamp,Stationery,48.32,898.02,0.0,0,0
+2027-01-05,P0020,Desk Lamp,Stationery,50.42,898.02,0.0,0,0
+2027-01-06,P0020,Desk Lamp,Stationery,51.04,898.02,0.0,0,0
+2027-01-07,P0020,Desk Lamp,Stationery,52.52,898.02,0.0,0,0
+2027-01-08,P0020,Desk Lamp,Stationery,51.54,898.02,0.0,0,0
+2027-01-09,P0020,Desk Lamp,Stationery,55.0,898.02,0.0,0,0
+2027-01-10,P0020,Desk Lamp,Stationery,54.57,898.02,0.0,0,0
+2027-01-11,P0020,Desk Lamp,Stationery,46.15,898.02,0.0,0,0
+2027-01-12,P0020,Desk Lamp,Stationery,49.64,898.02,0.0,0,0
+2027-01-13,P0020,Desk Lamp,Stationery,46.57,898.02,0.0,0,0
+2027-01-14,P0020,Desk Lamp,Stationery,46.25,898.02,0.0,0,0
+2027-01-15,P0020,Desk Lamp,Stationery,47.62,898.02,0.0,0,0
+2027-01-16,P0020,Desk Lamp,Stationery,52.0,898.02,0.0,0,0
+2027-01-17,P0020,Desk Lamp,Stationery,52.32,898.02,0.0,0,0
+2027-01-18,P0020,Desk Lamp,Stationery,47.8,898.02,0.0,0,0
+2027-01-19,P0020,Desk Lamp,Stationery,48.21,898.02,0.0,0,0
+2027-01-20,P0020,Desk Lamp,Stationery,46.23,898.02,0.0,0,0
+2027-01-21,P0020,Desk Lamp,Stationery,47.02,898.02,0.0,0,0
+2027-01-22,P0020,Desk Lamp,Stationery,47.82,898.02,0.0,0,0
+2027-01-23,P0020,Desk Lamp,Stationery,52.83,898.02,0.0,0,0
+2027-01-24,P0020,Desk Lamp,Stationery,49.05,898.02,0.0,0,0
+2027-01-25,P0020,Desk Lamp,Stationery,42.5,898.02,0.0,0,0
+2027-01-26,P0020,Desk Lamp,Stationery,54.53,898.02,0.0,0,1
+2027-01-27,P0020,Desk Lamp,Stationery,40.48,898.02,0.0,0,0
+2027-01-28,P0020,Desk Lamp,Stationery,43.22,898.02,0.0,0,0
+2027-01-29,P0020,Desk Lamp,Stationery,42.82,898.02,0.0,0,0
+2027-01-30,P0020,Desk Lamp,Stationery,49.72,898.02,0.0,0,0
+2027-01-01,P0021,Face Wash,Beauty,64.09,386.28,0.0,0,0
+2027-01-02,P0021,Face Wash,Beauty,64.81,386.28,0.0,0,0
+2027-01-03,P0021,Face Wash,Beauty,67.71,386.28,0.0,0,0
+2027-01-04,P0021,Face Wash,Beauty,64.37,386.28,0.0,0,0
+2027-01-05,P0021,Face Wash,Beauty,64.86,386.28,0.0,0,0
+2027-01-06,P0021,Face Wash,Beauty,56.76,386.28,0.0,0,0
+2027-01-07,P0021,Face Wash,Beauty,57.13,386.28,0.0,0,0
+2027-01-08,P0021,Face Wash,Beauty,57.5,386.28,0.0,0,0
+2027-01-09,P0021,Face Wash,Beauty,65.15,386.28,0.0,0,0
+2027-01-10,P0021,Face Wash,Beauty,68.14,386.28,0.0,0,0
+2027-01-11,P0021,Face Wash,Beauty,57.01,386.28,0.0,0,0
+2027-01-12,P0021,Face Wash,Beauty,57.79,386.28,0.0,0,0
+2027-01-13,P0021,Face Wash,Beauty,55.63,386.28,0.0,0,0
+2027-01-14,P0021,Face Wash,Beauty,56.12,386.28,0.0,0,0
+2027-01-15,P0021,Face Wash,Beauty,56.86,386.28,0.0,0,0
+2027-01-16,P0021,Face Wash,Beauty,63.25,386.28,0.0,0,0
+2027-01-17,P0021,Face Wash,Beauty,60.79,386.28,0.0,0,0
+2027-01-18,P0021,Face Wash,Beauty,55.81,386.28,0.0,0,0
+2027-01-19,P0021,Face Wash,Beauty,54.48,386.28,0.0,0,0
+2027-01-20,P0021,Face Wash,Beauty,56.54,386.28,0.0,0,0
+2027-01-21,P0021,Face Wash,Beauty,57.43,386.28,0.0,0,0
+2027-01-22,P0021,Face Wash,Beauty,56.36,386.28,0.0,0,0
+2027-01-23,P0021,Face Wash,Beauty,60.2,386.28,0.0,0,0
+2027-01-24,P0021,Face Wash,Beauty,58.39,386.28,0.0,0,0
+2027-01-25,P0021,Face Wash,Beauty,49.37,386.28,0.0,0,0
+2027-01-26,P0021,Face Wash,Beauty,68.67,386.28,0.0,0,1
+2027-01-27,P0021,Face Wash,Beauty,50.43,386.28,0.0,0,0
+2027-01-28,P0021,Face Wash,Beauty,51.81,386.28,0.0,0,0
+2027-01-29,P0021,Face Wash,Beauty,53.55,386.28,0.0,0,0
+2027-01-30,P0021,Face Wash,Beauty,57.99,386.28,0.0,0,0
+2027-01-01,P0022,Shampoo,Beauty,83.16,515.22,0.0,0,0
+2027-01-02,P0022,Shampoo,Beauty,80.42,515.22,0.0,0,0
+2027-01-03,P0022,Shampoo,Beauty,83.69,515.22,0.0,0,0
+2027-01-04,P0022,Shampoo,Beauty,74.24,515.22,0.0,0,0
+2027-01-05,P0022,Shampoo,Beauty,73.97,515.22,0.0,0,0
+2027-01-06,P0022,Shampoo,Beauty,71.22,515.22,0.0,0,0
+2027-01-07,P0022,Shampoo,Beauty,67.17,515.22,0.0,0,0
+2027-01-08,P0022,Shampoo,Beauty,67.92,515.22,0.0,0,0
+2027-01-09,P0022,Shampoo,Beauty,81.55,515.22,0.0,0,0
+2027-01-10,P0022,Shampoo,Beauty,83.0,515.22,0.0,0,0
+2027-01-11,P0022,Shampoo,Beauty,66.71,515.22,0.0,0,0
+2027-01-12,P0022,Shampoo,Beauty,68.52,515.22,0.0,0,0
+2027-01-13,P0022,Shampoo,Beauty,72.04,515.22,0.0,0,0
+2027-01-14,P0022,Shampoo,Beauty,67.73,515.22,0.0,0,0
+2027-01-15,P0022,Shampoo,Beauty,68.35,515.22,0.0,0,0
+2027-01-16,P0022,Shampoo,Beauty,82.15,515.22,0.0,0,0
+2027-01-17,P0022,Shampoo,Beauty,81.78,515.22,0.0,0,0
+2027-01-18,P0022,Shampoo,Beauty,64.54,515.22,0.0,0,0
+2027-01-19,P0022,Shampoo,Beauty,68.23,515.22,0.0,0,0
+2027-01-20,P0022,Shampoo,Beauty,66.89,515.22,0.0,0,0
+2027-01-21,P0022,Shampoo,Beauty,68.04,515.22,0.0,0,0
+2027-01-22,P0022,Shampoo,Beauty,69.24,515.22,0.0,0,0
+2027-01-23,P0022,Shampoo,Beauty,82.31,515.22,0.0,0,0
+2027-01-24,P0022,Shampoo,Beauty,81.66,515.22,0.0,0,0
+2027-01-25,P0022,Shampoo,Beauty,66.84,515.22,0.0,0,0
+2027-01-26,P0022,Shampoo,Beauty,84.7,515.22,0.0,0,1
+2027-01-27,P0022,Shampoo,Beauty,66.98,515.22,0.0,0,0
+2027-01-28,P0022,Shampoo,Beauty,65.47,515.22,0.0,0,0
+2027-01-29,P0022,Shampoo,Beauty,66.03,515.22,0.0,0,0
+2027-01-30,P0022,Shampoo,Beauty,78.4,515.22,0.0,0,0
+2027-01-01,P0023,Body Lotion,Beauty,92.83,373.16,0.2,1,0
+2027-01-02,P0023,Body Lotion,Beauty,89.73,373.16,0.2,1,0
+2027-01-03,P0023,Body Lotion,Beauty,99.89,373.16,0.2,1,0
+2027-01-04,P0023,Body Lotion,Beauty,81.22,373.16,0.2,1,0
+2027-01-05,P0023,Body Lotion,Beauty,85.25,373.16,0.2,1,0
+2027-01-06,P0023,Body Lotion,Beauty,79.16,373.16,0.2,1,0
+2027-01-07,P0023,Body Lotion,Beauty,101.42,373.16,0.2,1,0
+2027-01-08,P0023,Body Lotion,Beauty,106.98,373.16,0.2,1,0
+2027-01-09,P0023,Body Lotion,Beauty,109.25,373.16,0.2,1,0
+2027-01-10,P0023,Body Lotion,Beauty,109.26,373.16,0.2,1,0
+2027-01-11,P0023,Body Lotion,Beauty,118.8,373.16,0.2,1,0
+2027-01-12,P0023,Body Lotion,Beauty,133.04,373.16,0.2,1,0
+2027-01-13,P0023,Body Lotion,Beauty,127.92,373.16,0.2,1,0
+2027-01-14,P0023,Body Lotion,Beauty,131.3,373.16,0.2,1,0
+2027-01-15,P0023,Body Lotion,Beauty,133.6,373.16,0.2,1,0
+2027-01-16,P0023,Body Lotion,Beauty,134.29,373.16,0.2,1,0
+2027-01-17,P0023,Body Lotion,Beauty,146.53,373.16,0.2,1,0
+2027-01-18,P0023,Body Lotion,Beauty,145.01,373.16,0.2,1,0
+2027-01-19,P0023,Body Lotion,Beauty,152.79,373.16,0.2,1,0
+2027-01-20,P0023,Body Lotion,Beauty,148.04,373.16,0.2,1,0
+2027-01-21,P0023,Body Lotion,Beauty,152.79,373.16,0.2,1,0
+2027-01-22,P0023,Body Lotion,Beauty,148.42,373.16,0.2,1,0
+2027-01-23,P0023,Body Lotion,Beauty,153.07,373.16,0.2,1,0
+2027-01-24,P0023,Body Lotion,Beauty,157.27,373.16,0.2,1,0
+2027-01-25,P0023,Body Lotion,Beauty,150.59,373.16,0.2,1,0
+2027-01-26,P0023,Body Lotion,Beauty,172.67,373.16,0.2,1,1
+2027-01-27,P0023,Body Lotion,Beauty,151.08,373.16,0.2,1,0
+2027-01-28,P0023,Body Lotion,Beauty,154.14,373.16,0.2,1,0
+2027-01-29,P0023,Body Lotion,Beauty,155.79,373.16,0.2,1,0
+2027-01-30,P0023,Body Lotion,Beauty,169.07,373.16,0.2,1,0
+2027-01-01,P0024,Perfume,Beauty,37.11,1476.17,0.0,0,0
+2027-01-02,P0024,Perfume,Beauty,40.78,1476.17,0.0,0,0
+2027-01-03,P0024,Perfume,Beauty,42.97,1476.17,0.0,0,0
+2027-01-04,P0024,Perfume,Beauty,35.55,1476.17,0.0,0,0
+2027-01-05,P0024,Perfume,Beauty,35.05,1476.17,0.0,0,0
+2027-01-06,P0024,Perfume,Beauty,37.52,1476.17,0.0,0,0
+2027-01-07,P0024,Perfume,Beauty,36.23,1476.17,0.0,0,0
+2027-01-08,P0024,Perfume,Beauty,33.75,1476.17,0.0,0,0
+2027-01-09,P0024,Perfume,Beauty,36.83,1476.17,0.0,0,0
+2027-01-10,P0024,Perfume,Beauty,37.36,1476.17,0.0,0,0
+2027-01-11,P0024,Perfume,Beauty,34.07,1476.17,0.0,0,0
+2027-01-12,P0024,Perfume,Beauty,34.62,1476.17,0.0,0,0
+2027-01-13,P0024,Perfume,Beauty,34.06,1476.17,0.0,0,0
+2027-01-14,P0024,Perfume,Beauty,33.13,1476.17,0.0,0,0
+2027-01-15,P0024,Perfume,Beauty,33.44,1476.17,0.0,0,0
+2027-01-16,P0024,Perfume,Beauty,39.92,1476.17,0.0,0,0
+2027-01-17,P0024,Perfume,Beauty,40.69,1476.17,0.0,0,0
+2027-01-18,P0024,Perfume,Beauty,34.79,1476.17,0.0,0,0
+2027-01-19,P0024,Perfume,Beauty,35.38,1476.17,0.0,0,0
+2027-01-20,P0024,Perfume,Beauty,34.84,1476.17,0.0,0,0
+2027-01-21,P0024,Perfume,Beauty,35.43,1476.17,0.0,0,0
+2027-01-22,P0024,Perfume,Beauty,35.41,1476.17,0.0,0,0
+2027-01-23,P0024,Perfume,Beauty,39.23,1476.17,0.0,0,0
+2027-01-24,P0024,Perfume,Beauty,40.57,1476.17,0.0,0,0
+2027-01-25,P0024,Perfume,Beauty,35.64,1476.17,0.0,0,0
+2027-01-26,P0024,Perfume,Beauty,50.53,1476.17,0.0,0,1
+2027-01-27,P0024,Perfume,Beauty,34.59,1476.17,0.0,0,0
+2027-01-28,P0024,Perfume,Beauty,34.92,1476.17,0.0,0,0
+2027-01-29,P0024,Perfume,Beauty,35.55,1476.17,0.0,0,0
+2027-01-30,P0024,Perfume,Beauty,38.34,1476.17,0.0,0,0
+2027-01-01,P0025,Hair Dryer,Beauty,30.02,2085.3,0.0,0,0
+2027-01-02,P0025,Hair Dryer,Beauty,34.84,2085.3,0.0,0,0
+2027-01-03,P0025,Hair Dryer,Beauty,35.17,2085.3,0.0,0,0
+2027-01-04,P0025,Hair Dryer,Beauty,28.55,2085.3,0.0,0,0
+2027-01-05,P0025,Hair Dryer,Beauty,29.61,2085.3,0.0,0,0
+2027-01-06,P0025,Hair Dryer,Beauty,28.24,2085.3,0.0,0,0
+2027-01-07,P0025,Hair Dryer,Beauty,28.71,2085.3,0.0,0,0
+2027-01-08,P0025,Hair Dryer,Beauty,29.23,2085.3,0.0,0,0
+2027-01-09,P0025,Hair Dryer,Beauty,31.82,2085.3,0.0,0,0
+2027-01-10,P0025,Hair Dryer,Beauty,31.8,2085.3,0.0,0,0
+2027-01-11,P0025,Hair Dryer,Beauty,29.01,2085.3,0.0,0,0
+2027-01-12,P0025,Hair Dryer,Beauty,30.01,2085.3,0.0,0,0
+2027-01-13,P0025,Hair Dryer,Beauty,29.22,2085.3,0.0,0,0
+2027-01-14,P0025,Hair Dryer,Beauty,29.24,2085.3,0.0,0,0
+2027-01-15,P0025,Hair Dryer,Beauty,28.55,2085.3,0.0,0,0
+2027-01-16,P0025,Hair Dryer,Beauty,32.6,2085.3,0.0,0,0
+2027-01-17,P0025,Hair Dryer,Beauty,32.74,2085.3,0.0,0,0
+2027-01-18,P0025,Hair Dryer,Beauty,30.02,2085.3,0.0,0,0
+2027-01-19,P0025,Hair Dryer,Beauty,30.72,2085.3,0.0,0,0
+2027-01-20,P0025,Hair Dryer,Beauty,32.35,2085.3,0.0,0,0
+2027-01-21,P0025,Hair Dryer,Beauty,29.42,2085.3,0.0,0,0
+2027-01-22,P0025,Hair Dryer,Beauty,29.22,2085.3,0.0,0,0
+2027-01-23,P0025,Hair Dryer,Beauty,32.04,2085.3,0.0,0,0
+2027-01-24,P0025,Hair Dryer,Beauty,32.18,2085.3,0.0,0,0
+2027-01-25,P0025,Hair Dryer,Beauty,29.67,2085.3,0.0,0,0
+2027-01-26,P0025,Hair Dryer,Beauty,45.95,2085.3,0.0,0,1
+2027-01-27,P0025,Hair Dryer,Beauty,28.59,2085.3,0.0,0,0
+2027-01-28,P0025,Hair Dryer,Beauty,29.1,2085.3,0.0,0,0
+2027-01-29,P0025,Hair Dryer,Beauty,29.44,2085.3,0.0,0,0
+2027-01-30,P0025,Hair Dryer,Beauty,31.42,2085.3,0.0,0,0
+2027-01-01,P0026,Yoga Mat,Sports,59.03,893.1,0.1,1,0
+2027-01-02,P0026,Yoga Mat,Sports,62.52,893.1,0.1,1,0
+2027-01-03,P0026,Yoga Mat,Sports,61.7,893.1,0.1,1,0
+2027-01-04,P0026,Yoga Mat,Sports,55.88,893.1,0.1,1,0
+2027-01-05,P0026,Yoga Mat,Sports,55.92,893.1,0.1,1,0
+2027-01-06,P0026,Yoga Mat,Sports,56.67,893.1,0.1,1,0
+2027-01-07,P0026,Yoga Mat,Sports,57.74,893.1,0.1,1,0
+2027-01-08,P0026,Yoga Mat,Sports,61.21,893.1,0.1,1,0
+2027-01-09,P0026,Yoga Mat,Sports,61.36,893.1,0.1,1,0
+2027-01-10,P0026,Yoga Mat,Sports,63.8,893.1,0.1,1,0
+2027-01-11,P0026,Yoga Mat,Sports,57.98,893.1,0.1,1,0
+2027-01-12,P0026,Yoga Mat,Sports,57.36,893.1,0.1,1,0
+2027-01-13,P0026,Yoga Mat,Sports,61.23,893.1,0.1,1,0
+2027-01-14,P0026,Yoga Mat,Sports,59.09,893.1,0.1,1,0
+2027-01-15,P0026,Yoga Mat,Sports,61.24,893.1,0.1,1,0
+2027-01-16,P0026,Yoga Mat,Sports,66.45,893.1,0.1,1,0
+2027-01-17,P0026,Yoga Mat,Sports,66.53,893.1,0.1,1,0
+2027-01-18,P0026,Yoga Mat,Sports,61.49,893.1,0.1,1,0
+2027-01-19,P0026,Yoga Mat,Sports,60.48,893.1,0.1,1,0
+2027-01-20,P0026,Yoga Mat,Sports,61.4,893.1,0.1,1,0
+2027-01-21,P0026,Yoga Mat,Sports,61.54,893.1,0.1,1,0
+2027-01-22,P0026,Yoga Mat,Sports,60.87,893.1,0.1,1,0
+2027-01-23,P0026,Yoga Mat,Sports,66.47,893.1,0.1,1,0
+2027-01-24,P0026,Yoga Mat,Sports,65.67,893.1,0.1,1,0
+2027-01-25,P0026,Yoga Mat,Sports,60.34,893.1,0.1,1,0
+2027-01-26,P0026,Yoga Mat,Sports,74.17,893.1,0.1,1,1
+2027-01-27,P0026,Yoga Mat,Sports,66.61,893.1,0.1,1,0
+2027-01-28,P0026,Yoga Mat,Sports,65.58,893.1,0.1,1,0
+2027-01-29,P0026,Yoga Mat,Sports,64.72,893.1,0.1,1,0
+2027-01-30,P0026,Yoga Mat,Sports,72.45,893.1,0.1,1,0
+2027-01-01,P0027,Dumbbells,Sports,32.13,2455.03,0.0,0,0
+2027-01-02,P0027,Dumbbells,Sports,35.51,2455.03,0.0,0,0
+2027-01-03,P0027,Dumbbells,Sports,35.5,2455.03,0.0,0,0
+2027-01-04,P0027,Dumbbells,Sports,31.39,2455.03,0.0,0,0
+2027-01-05,P0027,Dumbbells,Sports,31.71,2455.03,0.0,0,0
+2027-01-06,P0027,Dumbbells,Sports,29.98,2455.03,0.0,0,0
+2027-01-07,P0027,Dumbbells,Sports,30.2,2455.03,0.0,0,0
+2027-01-08,P0027,Dumbbells,Sports,30.3,2455.03,0.0,0,0
+2027-01-09,P0027,Dumbbells,Sports,32.42,2455.03,0.0,0,0
+2027-01-10,P0027,Dumbbells,Sports,30.89,2455.03,0.0,0,0
+2027-01-11,P0027,Dumbbells,Sports,28.86,2455.03,0.0,0,0
+2027-01-12,P0027,Dumbbells,Sports,29.04,2455.03,0.0,0,0
+2027-01-13,P0027,Dumbbells,Sports,29.23,2455.03,0.0,0,0
+2027-01-14,P0027,Dumbbells,Sports,29.0,2455.03,0.0,0,0
+2027-01-15,P0027,Dumbbells,Sports,28.37,2455.03,0.0,0,0
+2027-01-16,P0027,Dumbbells,Sports,32.24,2455.03,0.0,0,0
+2027-01-17,P0027,Dumbbells,Sports,31.93,2455.03,0.0,0,0
+2027-01-18,P0027,Dumbbells,Sports,29.77,2455.03,0.0,0,0
+2027-01-19,P0027,Dumbbells,Sports,30.08,2455.03,0.0,0,0
+2027-01-20,P0027,Dumbbells,Sports,30.08,2455.03,0.0,0,0
+2027-01-21,P0027,Dumbbells,Sports,29.33,2455.03,0.0,0,0
+2027-01-22,P0027,Dumbbells,Sports,29.12,2455.03,0.0,0,0
+2027-01-23,P0027,Dumbbells,Sports,32.3,2455.03,0.0,0,0
+2027-01-24,P0027,Dumbbells,Sports,32.51,2455.03,0.0,0,0
+2027-01-25,P0027,Dumbbells,Sports,28.44,2455.03,0.0,0,0
+2027-01-26,P0027,Dumbbells,Sports,44.82,2455.03,0.0,0,1
+2027-01-27,P0027,Dumbbells,Sports,27.63,2455.03,0.0,0,0
+2027-01-28,P0027,Dumbbells,Sports,28.59,2455.03,0.0,0,0
+2027-01-29,P0027,Dumbbells,Sports,28.73,2455.03,0.0,0,0
+2027-01-30,P0027,Dumbbells,Sports,31.04,2455.03,0.0,0,0
+2027-01-01,P0028,Cricket Bat,Sports,24.79,3204.79,0.0,0,0
+2027-01-02,P0028,Cricket Bat,Sports,25.94,3204.79,0.0,0,0
+2027-01-03,P0028,Cricket Bat,Sports,26.3,3204.79,0.0,0,0
+2027-01-04,P0028,Cricket Bat,Sports,24.07,3204.79,0.0,0,0
+2027-01-05,P0028,Cricket Bat,Sports,23.69,3204.79,0.0,0,0
+2027-01-06,P0028,Cricket Bat,Sports,24.62,3204.79,0.0,0,0
+2027-01-07,P0028,Cricket Bat,Sports,24.89,3204.79,0.0,0,0
+2027-01-08,P0028,Cricket Bat,Sports,23.33,3204.79,0.0,0,0
+2027-01-09,P0028,Cricket Bat,Sports,25.73,3204.79,0.0,0,0
+2027-01-10,P0028,Cricket Bat,Sports,26.13,3204.79,0.0,0,0
+2027-01-11,P0028,Cricket Bat,Sports,23.54,3204.79,0.0,0,0
+2027-01-12,P0028,Cricket Bat,Sports,23.18,3204.79,0.0,0,0
+2027-01-13,P0028,Cricket Bat,Sports,23.18,3204.79,0.0,0,0
+2027-01-14,P0028,Cricket Bat,Sports,23.28,3204.79,0.0,0,0
+2027-01-15,P0028,Cricket Bat,Sports,21.94,3204.79,0.0,0,0
+2027-01-16,P0028,Cricket Bat,Sports,26.41,3204.79,0.0,0,0
+2027-01-17,P0028,Cricket Bat,Sports,25.88,3204.79,0.0,0,0
+2027-01-18,P0028,Cricket Bat,Sports,22.67,3204.79,0.0,0,0
+2027-01-19,P0028,Cricket Bat,Sports,22.23,3204.79,0.0,0,0
+2027-01-20,P0028,Cricket Bat,Sports,21.6,3204.79,0.0,0,0
+2027-01-21,P0028,Cricket Bat,Sports,21.38,3204.79,0.0,0,0
+2027-01-22,P0028,Cricket Bat,Sports,21.89,3204.79,0.0,0,0
+2027-01-23,P0028,Cricket Bat,Sports,24.07,3204.79,0.0,0,0
+2027-01-24,P0028,Cricket Bat,Sports,23.46,3204.79,0.0,0,0
+2027-01-25,P0028,Cricket Bat,Sports,20.67,3204.79,0.0,0,0
+2027-01-26,P0028,Cricket Bat,Sports,28.25,3204.79,0.0,0,1
+2027-01-27,P0028,Cricket Bat,Sports,21.67,3204.79,0.0,0,0
+2027-01-28,P0028,Cricket Bat,Sports,22.03,3204.79,0.0,0,0
+2027-01-29,P0028,Cricket Bat,Sports,21.99,3204.79,0.0,0,0
+2027-01-30,P0028,Cricket Bat,Sports,23.92,3204.79,0.0,0,0
+2027-01-01,P0029,Football,Sports,43.13,907.83,0.0,0,0
+2027-01-02,P0029,Football,Sports,49.05,907.83,0.0,0,0
+2027-01-03,P0029,Football,Sports,49.55,907.83,0.0,0,0
+2027-01-04,P0029,Football,Sports,40.41,907.83,0.0,0,0
+2027-01-05,P0029,Football,Sports,40.67,907.83,0.0,0,0
+2027-01-06,P0029,Football,Sports,44.09,907.83,0.0,0,0
+2027-01-07,P0029,Football,Sports,41.63,907.83,0.0,0,0
+2027-01-08,P0029,Football,Sports,41.96,907.83,0.0,0,0
+2027-01-09,P0029,Football,Sports,46.19,907.83,0.0,0,0
+2027-01-10,P0029,Football,Sports,44.85,907.83,0.0,0,0
+2027-01-11,P0029,Football,Sports,40.17,907.83,0.0,0,0
+2027-01-12,P0029,Football,Sports,41.6,907.83,0.0,0,0
+2027-01-13,P0029,Football,Sports,39.44,907.83,0.0,0,0
+2027-01-14,P0029,Football,Sports,37.4,907.83,0.0,0,0
+2027-01-15,P0029,Football,Sports,39.82,907.83,0.0,0,0
+2027-01-16,P0029,Football,Sports,42.07,907.83,0.0,0,0
+2027-01-17,P0029,Football,Sports,41.29,907.83,0.0,0,0
+2027-01-18,P0029,Football,Sports,38.07,907.83,0.0,0,0
+2027-01-19,P0029,Football,Sports,39.02,907.83,0.0,0,0
+2027-01-20,P0029,Football,Sports,38.06,907.83,0.0,0,0
+2027-01-21,P0029,Football,Sports,38.4,907.83,0.0,0,0
+2027-01-22,P0029,Football,Sports,38.23,907.83,0.0,0,0
+2027-01-23,P0029,Football,Sports,42.22,907.83,0.0,0,0
+2027-01-24,P0029,Football,Sports,43.0,907.83,0.0,0,0
+2027-01-25,P0029,Football,Sports,36.12,907.83,0.0,0,0
+2027-01-26,P0029,Football,Sports,51.16,907.83,0.0,0,1
+2027-01-27,P0029,Football,Sports,38.25,907.83,0.0,0,0
+2027-01-28,P0029,Football,Sports,39.92,907.83,0.0,0,0
+2027-01-29,P0029,Football,Sports,38.87,907.83,0.0,0,0
+2027-01-30,P0029,Football,Sports,43.85,907.83,0.0,0,0
+2027-01-01,P0030,Water Bottle,Sports,67.51,708.03,0.0,0,0
+2027-01-02,P0030,Water Bottle,Sports,77.6,708.03,0.0,0,0
+2027-01-03,P0030,Water Bottle,Sports,76.57,708.03,0.0,0,0
+2027-01-04,P0030,Water Bottle,Sports,60.4,708.03,0.0,0,0
+2027-01-05,P0030,Water Bottle,Sports,62.86,708.03,0.0,0,0
+2027-01-06,P0030,Water Bottle,Sports,63.64,708.03,0.0,0,0
+2027-01-07,P0030,Water Bottle,Sports,63.07,708.03,0.0,0,0
+2027-01-08,P0030,Water Bottle,Sports,65.76,708.03,0.0,0,0
+2027-01-09,P0030,Water Bottle,Sports,74.55,708.03,0.0,0,0
+2027-01-10,P0030,Water Bottle,Sports,78.58,708.03,0.0,0,0
+2027-01-11,P0030,Water Bottle,Sports,66.31,708.03,0.0,0,0
+2027-01-12,P0030,Water Bottle,Sports,67.66,708.03,0.0,0,0
+2027-01-13,P0030,Water Bottle,Sports,65.8,708.03,0.0,0,0
+2027-01-14,P0030,Water Bottle,Sports,62.46,708.03,0.0,0,0
+2027-01-15,P0030,Water Bottle,Sports,65.24,708.03,0.0,0,0
+2027-01-16,P0030,Water Bottle,Sports,75.65,708.03,0.0,0,0
+2027-01-17,P0030,Water Bottle,Sports,76.77,708.03,0.0,0,0
+2027-01-18,P0030,Water Bottle,Sports,61.89,708.03,0.0,0,0
+2027-01-19,P0030,Water Bottle,Sports,66.73,708.03,0.0,0,0
+2027-01-20,P0030,Water Bottle,Sports,64.54,708.03,0.0,0,0
+2027-01-21,P0030,Water Bottle,Sports,63.51,708.03,0.0,0,0
+2027-01-22,P0030,Water Bottle,Sports,64.39,708.03,0.0,0,0
+2027-01-23,P0030,Water Bottle,Sports,73.12,708.03,0.0,0,0
+2027-01-24,P0030,Water Bottle,Sports,70.96,708.03,0.0,0,0
+2027-01-25,P0030,Water Bottle,Sports,65.24,708.03,0.0,0,0
+2027-01-26,P0030,Water Bottle,Sports,88.23,708.03,0.0,0,1
+2027-01-27,P0030,Water Bottle,Sports,61.0,708.03,0.0,0,0
+2027-01-28,P0030,Water Bottle,Sports,64.82,708.03,0.0,0,0
+2027-01-29,P0030,Water Bottle,Sports,61.84,708.03,0.0,0,0
+2027-01-30,P0030,Water Bottle,Sports,69.1,708.03,0.0,0,0

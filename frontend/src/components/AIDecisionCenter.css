@@ -1,0 +1,604 @@
+.ai-decision-page {
+  padding: 28px;
+  min-height: 100%;
+}
+
+.ai-decision-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 20px;
+  margin-bottom: 26px;
+}
+
+.ai-decision-title {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.ai-decision-title h1 {
+  margin: 0;
+  font-size: 30px;
+}
+
+.ai-decision-header p {
+  margin: 8px 0 0;
+  max-width: 760px;
+  line-height: 1.6;
+  opacity: 0.65;
+}
+
+.ai-engine-badge {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 15px;
+  border-radius: 10px;
+  background: rgba(99, 102, 241, 0.08);
+  border: 1px solid rgba(99, 102, 241, 0.22);
+  font-size: 12px;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+
+/* ============================================================
+   KPI CARDS
+============================================================ */
+
+.ai-decision-kpis {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 14px;
+  margin-bottom: 20px;
+}
+
+.ai-decision-kpi {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  padding: 18px;
+  border-radius: 14px;
+  border: 1px solid rgba(128, 128, 128, 0.17);
+  background: rgba(128, 128, 128, 0.04);
+}
+
+.ai-kpi-icon {
+  width: 43px;
+  height: 43px;
+  display: grid;
+  place-items: center;
+  border-radius: 11px;
+  background: rgba(128, 128, 128, 0.09);
+}
+
+.ai-kpi-icon.total {
+  background: rgba(99, 102, 241, 0.1);
+}
+
+.ai-decision-kpi span {
+  display: block;
+  font-size: 9px;
+  font-weight: 750;
+  letter-spacing: 0.07em;
+  opacity: 0.55;
+}
+
+.ai-decision-kpi strong {
+  display: block;
+  margin-top: 5px;
+  font-size: 23px;
+}
+
+.ai-decision-kpi.critical {
+  border-color: rgba(239, 68, 68, 0.22);
+}
+
+.ai-decision-kpi.high {
+  border-color: rgba(249, 115, 22, 0.22);
+}
+
+.ai-decision-kpi.medium {
+  border-color: rgba(234, 179, 8, 0.22);
+}
+
+.ai-decision-kpi.low {
+  border-color: rgba(34, 197, 94, 0.22);
+}
+
+
+/* ============================================================
+   ACTION SUMMARY
+============================================================ */
+
+.ai-action-summary {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  margin-bottom: 22px;
+}
+
+.ai-action-card {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  padding: 18px;
+  border-radius: 13px;
+  border: 1px solid rgba(128, 128, 128, 0.17);
+}
+
+.ai-action-card span {
+  display: block;
+  font-size: 9px;
+  font-weight: 750;
+  letter-spacing: 0.07em;
+  opacity: 0.55;
+}
+
+.ai-action-card strong {
+  display: block;
+  margin: 3px 0;
+  font-size: 23px;
+}
+
+.ai-action-card small {
+  opacity: 0.55;
+  font-size: 11px;
+}
+
+.ai-action-card.urgent {
+  background: rgba(239, 68, 68, 0.05);
+}
+
+.ai-action-card.increase {
+  background: rgba(34, 197, 94, 0.05);
+}
+
+.ai-action-card.reduce {
+  background: rgba(249, 115, 22, 0.05);
+}
+
+
+/* ============================================================
+   FILTERS
+============================================================ */
+
+.ai-decision-filters {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 18px;
+}
+
+.ai-search {
+  flex: 1;
+  min-height: 45px;
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  padding: 0 13px;
+  border: 1px solid rgba(128, 128, 128, 0.2);
+  border-radius: 10px;
+  background: rgba(128, 128, 128, 0.035);
+}
+
+.ai-search input {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  font-size: 13px;
+}
+
+.ai-decision-filters select {
+  min-width: 180px;
+  padding: 0 12px;
+  border-radius: 10px;
+  border: 1px solid rgba(128, 128, 128, 0.2);
+  background: transparent;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+
+/* ============================================================
+   TABLE
+============================================================ */
+
+.ai-decision-table-card {
+  border: 1px solid rgba(128, 128, 128, 0.18);
+  border-radius: 15px;
+  background: rgba(128, 128, 128, 0.035);
+  overflow: hidden;
+}
+
+.ai-table-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 21px;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.14);
+}
+
+.ai-table-header h2 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.ai-table-header p {
+  margin: 5px 0 0;
+  font-size: 12px;
+  opacity: 0.55;
+}
+
+.ai-confidence-label {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 12px;
+  font-weight: 650;
+  opacity: 0.65;
+}
+
+.ai-table-wrapper {
+  overflow-x: auto;
+}
+
+.ai-decision-table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 1200px;
+}
+
+.ai-decision-table th {
+  padding: 13px 15px;
+  text-align: left;
+  font-size: 9px;
+  letter-spacing: 0.06em;
+  font-weight: 750;
+  opacity: 0.5;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.14);
+}
+
+.ai-decision-table td {
+  padding: 15px;
+  vertical-align: middle;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.1);
+  font-size: 12px;
+}
+
+.ai-decision-table tbody tr:hover {
+  background: rgba(128, 128, 128, 0.045);
+}
+
+
+/* ============================================================
+   PRODUCT
+============================================================ */
+
+.ai-product-cell {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 190px;
+}
+
+.ai-product-icon {
+  width: 36px;
+  height: 36px;
+  display: grid;
+  place-items: center;
+  border-radius: 9px;
+  background: rgba(99, 102, 241, 0.09);
+  flex-shrink: 0;
+}
+
+.ai-product-cell strong {
+  display: block;
+  max-width: 200px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.ai-product-cell span,
+.ai-product-cell small {
+  display: block;
+  margin-top: 3px;
+  opacity: 0.5;
+  font-size: 10px;
+}
+
+
+/* ============================================================
+   NUMBERS
+============================================================ */
+
+.ai-unit {
+  display: block;
+  margin-top: 3px;
+  opacity: 0.45;
+  font-size: 9px;
+}
+
+
+/* ============================================================
+   RISK
+============================================================ */
+
+.ai-risk-badge {
+  display: inline-flex;
+  padding: 5px 9px;
+  border-radius: 7px;
+  font-size: 10px;
+  font-weight: 750;
+}
+
+.ai-risk-badge.critical {
+  background: rgba(239, 68, 68, 0.12);
+}
+
+.ai-risk-badge.high {
+  background: rgba(249, 115, 22, 0.12);
+}
+
+.ai-risk-badge.medium {
+  background: rgba(234, 179, 8, 0.12);
+}
+
+.ai-risk-badge.low {
+  background: rgba(34, 197, 94, 0.12);
+}
+
+
+/* ============================================================
+   PRICE
+============================================================ */
+
+.ai-price-cell strong {
+  display: block;
+}
+
+.price-up,
+.price-down {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  margin-top: 4px;
+  font-size: 10px;
+  font-weight: 700;
+}
+
+.price-up {
+  opacity: 0.8;
+}
+
+.price-down {
+  opacity: 0.8;
+}
+
+
+/* ============================================================
+   AI DECISION
+============================================================ */
+
+.ai-decision-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 9px;
+  border-radius: 8px;
+  font-size: 10px;
+  font-weight: 750;
+  white-space: nowrap;
+}
+
+.ai-decision-badge.critical {
+  background: rgba(239, 68, 68, 0.13);
+}
+
+.ai-decision-badge.high {
+  background: rgba(249, 115, 22, 0.13);
+}
+
+.ai-decision-badge.medium {
+  background: rgba(234, 179, 8, 0.13);
+}
+
+.ai-decision-badge.low {
+  background: rgba(34, 197, 94, 0.13);
+}
+
+.ai-explanation {
+  max-width: 260px;
+  margin-top: 7px;
+  font-size: 10px;
+  line-height: 1.45;
+  opacity: 0.52;
+}
+
+
+/* ============================================================
+   CONFIDENCE
+============================================================ */
+
+.confidence-cell {
+  min-width: 90px;
+}
+
+.confidence-number {
+  margin-bottom: 6px;
+  font-weight: 750;
+  font-size: 12px;
+}
+
+.confidence-bar {
+  width: 80px;
+  height: 5px;
+  border-radius: 10px;
+  overflow: hidden;
+  background: rgba(128, 128, 128, 0.16);
+}
+
+.confidence-fill {
+  height: 100%;
+  border-radius: inherit;
+  background: currentColor;
+}
+
+
+/* ============================================================
+   EMPTY / LOADING / ERROR
+============================================================ */
+
+.ai-no-results {
+  padding: 60px 20px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.ai-no-results h3 {
+  margin: 12px 0 5px;
+}
+
+.ai-no-results p {
+  margin: 0;
+  font-size: 13px;
+}
+
+.ai-decision-loading {
+  min-height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  opacity: 0.7;
+}
+
+.ai-decision-loading h3 {
+  margin: 15px 0 5px;
+}
+
+.ai-decision-loading p {
+  margin: 0;
+  font-size: 13px;
+}
+
+.ai-decision-spinner {
+  animation: ai-spin 1s linear infinite;
+}
+
+@keyframes ai-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.ai-decision-error {
+  margin: 30px;
+  padding: 25px;
+  display: flex;
+  gap: 14px;
+  border-radius: 14px;
+  border: 1px solid rgba(239, 68, 68, 0.25);
+  background: rgba(239, 68, 68, 0.06);
+}
+
+.ai-decision-error h3 {
+  margin: 0 0 6px;
+}
+
+.ai-decision-error p {
+  margin: 0 0 14px;
+  opacity: 0.65;
+}
+
+.ai-decision-error button {
+  border: 0;
+  border-radius: 8px;
+  padding: 9px 15px;
+  cursor: pointer;
+  font-weight: 650;
+}
+
+
+/* ============================================================
+   FOOTER
+============================================================ */
+
+.ai-decision-footer {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 14px;
+  border: 1px solid rgba(99, 102, 241, 0.18);
+  background: rgba(99, 102, 241, 0.04);
+}
+
+.ai-footer-icon {
+  width: 45px;
+  height: 45px;
+  display: grid;
+  place-items: center;
+  border-radius: 11px;
+  background: rgba(99, 102, 241, 0.1);
+  flex-shrink: 0;
+}
+
+.ai-decision-footer h3 {
+  margin: 0 0 6px;
+  font-size: 15px;
+}
+
+.ai-decision-footer p {
+  margin: 0;
+  line-height: 1.6;
+  font-size: 12px;
+  opacity: 0.65;
+}
+
+
+/* ============================================================
+   RESPONSIVE
+============================================================ */
+
+@media (max-width: 1200px) {
+  .ai-decision-kpis {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 850px) {
+  .ai-decision-header {
+    flex-direction: column;
+  }
+
+  .ai-action-summary {
+    grid-template-columns: 1fr;
+  }
+
+  .ai-decision-filters {
+    flex-direction: column;
+  }
+
+  .ai-decision-filters select {
+    min-height: 45px;
+  }
+}
+
+@media (max-width: 650px) {
+  .ai-decision-page {
+    padding: 18px;
+  }
+
+  .ai-decision-kpis {
+    grid-template-columns: 1fr;
+  }
+}
